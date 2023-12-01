@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/Life2-Logo-Registered-Small.png">
+  <img src="profile/images/Life2-Logo-Registered-Small.png">
 </p>
 
 # About
